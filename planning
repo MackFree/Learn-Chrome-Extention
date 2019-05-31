@@ -1,0 +1,8 @@
+if on page https://learn.canterbury.ac.nz/
+    check if the button exists named 'tuakiriloginbtn ucloginbtn'
+    if yes:
+        redirect to https://login.canterbury.ac.nz/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+        insert data into /idp/profile/SAML2/Redirect/SSO?execution=e1s1 text boxes
+        and click login button named _eventId_proceed
+    else:
+        do nothing
