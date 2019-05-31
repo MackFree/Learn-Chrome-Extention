@@ -1,0 +1,7 @@
+{
+    "name": "Learn Automatic Login",
+    "version": "1.0",
+    "description": "Automatically Logs the user into UCLearn given the right credentials",
+    "author": "Michael Freeman",
+    "manifest_version": 2
+  }
